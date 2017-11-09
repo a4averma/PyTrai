@@ -1,5 +1,5 @@
 # PyTrai
-Scraps news and updates from trai.gov.in, converts the pdf image to text, summarises it and then inserts it to the Database.
+Scraps notifications from trai.gov.in, converts the pdf image to text, summarises it and then inserts it to the Database.
 
 ## Credits
 - [OCR.Space](http://ocr.space)
